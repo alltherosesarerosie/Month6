@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="input_your_text">Input your text</string>
+    <string name="go">GO</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+</resources>
